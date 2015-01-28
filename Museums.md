@@ -3,10 +3,10 @@ Transformer configuration for Museums dataset
 
 ## Input Data
 As input data we use a CSV file provided by the Toscana region, namely [musei.csv](http://mappe.regione.toscana.it/db-webgis/musei/example_postgis.jsp?format=csv). This dataset aims at uncovering cultural locations in the region, mainly museums but also historical sights and monuments. Raw data has the following view(header and first line):
-| id   | est     | nord    | lat       | lon       | id_tipologia | tipologia                         | id_categoria | categoria_prevalente      | denominazione                                                                                                          | indirizzo                        | localita                      | comune                     | provincia | numero_sedi |
-|------|---------|---------|-----------|-----------|--------------|-----------------------------------|--------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------------------------|----------------------------|-----------|-------------|
 
-
+> | id   | est     | nord    | lat       | lon       | id_tipologia | tipologia                         | id_categoria | categoria_prevalente      | denominazione                                                                                                          | indirizzo                        | localita                      | comune                     | provincia | numero_sedi |
+> |------|---------|---------|-----------|-----------|--------------|-----------------------------------|--------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------------------------|----------------------------|-----------|-------------|
+ 
 ## Transformed Data
 
 *TODO*
